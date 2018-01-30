@@ -2,9 +2,11 @@
 
 A Python trading tool for Crypto-Trading.
 
-![Morty](https://i.ytimg.com/vi/lZi5FaGLhCA/maxresdefault.jpg) 
+![Morty](https://fsmedia.imgix.net/ff/7a/27/d6/5afc/474d/8567/4bfbfc596f6c/would-morty-like-big-bang-theory.png?auto=format%2Ccompress&w=700) 
 
 **Awh man! I thought this strategy was gonna work for sure**
+
+*Disclamer*: This project is abdandoned. It worked as a very simple backtester for crypto trading, you can modify the Backfiller to use public data from Bitfinex, but honestly you are better using [Catalyst](https://github.com/enigmampc/catalyst). 
 
 ## TODO
 
@@ -15,39 +17,6 @@ A Python trading tool for Crypto-Trading.
 - [ ] Paper trading
 - [ ] Live trading
 - [ ] Parameter optimizer
-
-## Supported Pairs
-
-### Kraken:
-[[BTC, USD],
-[ETH, USD],
-[XRP, USD],
-[BTC, EUR],
-[ETH, EUR],
-[XRP, EUR],
-[XRP, BTC],
-[ETH, BTC],
-[USDT, USD]]
-
-### Bitso:
-[[BTC, MXN],
-[ETH, MXN],
-[XRP, MXN],
-[ETH, BTC],
-[XRP, BTC]]
-
-### Poloniex
-[[BTC, USDT],
-[ETH, BTC],
-[XRP, BTC],
-[ETH, USDT],
-[XRP, USDT]]
-
-### Gemini
-[[BTC, USD],
-[ETH, USD]]
-
-### Kraken:
 
 ## Setup
 
